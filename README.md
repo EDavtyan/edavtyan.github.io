@@ -1,5 +1,3 @@
-# Edgar Davtyan
-
 ## Data Scientist | User Behaviour Analysis
 *Based in Armenia | davtyan.edd@gmail.com | [LinkedIn Profile](YourLinkedInURL) | [GitHub Profile](YourGitHubURL)*
 
