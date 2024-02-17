@@ -1,7 +1,3 @@
----
-layout: default
----
-
 # Edgar Davtyan
 
 ## Data Scientist | User Behaviour Analysis
