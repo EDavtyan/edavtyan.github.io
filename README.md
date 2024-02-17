@@ -1,5 +1,5 @@
-## Data Scientist | User Behaviour Analysis
-*Based in Armenia | davtyan.edd@gmail.com | [LinkedIn Profile](YourLinkedInURL) | [GitHub Profile](YourGitHubURL)*
+## Data Scientist
+*Based in Armenia | davtyan.edd@gmail.com | [LinkedIn Profile]([YourLinkedInURL](https://www.linkedin.com/in/edgar-davtyan-a603a5237/)) | [GitHub Profile]([YourGitHubURL](https://github.com/EDavtyan))*
 
 ---
 
