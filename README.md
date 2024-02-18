@@ -57,6 +57,20 @@ Synergy International Systems is a global software company that empowers organiz
 
 ## Projects
 
+# Introduction to Sequential Testing Tools for Interleaving Experiments
+
+In the dynamic realm of machine learning and ranking algorithms, traditional A/B testing, while effective for causal inference, poses significant challenges due to its lengthy duration and resource requirements.
+To address this, I have implemented a suite of sequential testing tools for interleaving experiments in Python. Interleaving is adept at evaluating ranked lists, allowing for the rapid comparison of different ranking algorithms by intermixing their results and measuring user engagement directly. Below I provide a brief overview of interleaving experiments.
+
+## How Interleaving Works:
+
+Unlike A/B testing, which divides consumers into separate groups, interleaving combines lists from control and treatment rankers, presenting them in an interwoven format. This method not only mitigates the issues of position bias but also leverages the entire sample for a single, more stable distribution, thereby reducing variance and increasing the speed of experimentation.
+The process involves rounds where the highest-ranked items not already present in the interleaved list are selected from both control and treatment rankers. The preference signal—derived from which ranker's items are more engaged with—serves as the indicator of superiority between the two rankers, bypassing the need for conventional control and treatment group comparisons.
+
+## Why Interleaving Succeeds:
+
+The strength of interleaving lies in its streamlined approach, utilizing one-sample tests over two-sample tests, hence reducing variability and required sample size. This technique not only consolidates the sample to estimate a single distribution but also amplifies sensitivity to treatment effects by extracting additional signals from consumer preferences under forced choice conditions.
+
 
 ---
 
