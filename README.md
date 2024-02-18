@@ -66,7 +66,7 @@ the client countries.
 ---
 
 ## Publications
-[Poghosyan A])(https://scholar.google.cl/citations?user=A0He6ugAAAAJ&hl=en),
+[Poghosyan A](https://scholar.google.cl/citations?user=A0He6ugAAAAJ&hl=en),
 [Harutyunyan A](https://scholar.google.cl/citations?hl=en&user=G8fSsPYAAAAJ),
 **Davtyan E**, Petrosyan K, [Baloian N](https://scholar.google.cl/citations?hl=en&user=LYlzMIIAAAAJ).
 A Study on Automated Problem Troubleshooting in Cloud Environments with Rule Induction and
