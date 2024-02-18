@@ -8,14 +8,14 @@ Welcome to my professional page! I'm Edgar, a passionate and experienced data sc
 
 ---
 
-## Education
+## **Education**
 - MS in Data Science - **IU International University of Applied Sciences** (2023 - 2024, Germany)
 
 - BS in Computer Science - **American University of Armenia** (2017 - 2021, Armenia)
 
-## Work Experience
+## **Work Experience**
 
-### **Data Scientist @ Picsart | User Behaviour (_Jan 2022 - Present_)**
+### Data Scientist @ Picsart | User Behaviour (_Jan 2022 - Present_)
 - Delivered to production a crash anomaly detection model for the engineering
 department to monitor and track the anomalous crash activity of users' mobile
 devices.
@@ -32,18 +32,18 @@ dataset analyses leveraging clustering ML algorithms and NN.
 
   Picsart is one of the world’s largest digital creation platforms with 150M+ active monthly users, a top 20 most downloaded app worldwide for 2021, and available in over 30 languages. The platform at Picsart provides creators with advanced, intuitive AI tools, exclusive content, and a massive open-source content collection to propel their creativity.
 
-### **Researcher @ FAST ADVANCE Research Grant Program | Explainable AI (_Mar 2023 - Present_)**
+### Researcher @ FAST ADVANCE Research Grant Program | Explainable AI (_Mar 2023 - Present_)
 - Actively participating in a research project focused on developing interpretable,
 robust machine learning models using Dempster-Shafer theory.
 - Designing, implementing, and applying proposed explainable models in real-world datasets across
 various sectors, and participating in preparing scientific articles for high-impact conferences and journals.
 
-### **Teaching Associate @ American University of Armenia | DS120 Programming for Data Science (_Jan 2022 - Jun 2022_)**
+### Teaching Associate @ American University of Armenia | DS120 Programming for Data Science (_Jan 2022 - Jun 2022_)
 - Conducted problem-solving sessions.
 - Graded homework.
 - This role enhanced my ability to communicate complex ideas simply.
 
-### **Database Developer @ Synergy International Systems | Judiciary Systems (_Sep 2019 - Dec 2021_)**
+### Database Developer @ Synergy International Systems | Judiciary Systems (_Sep 2019 - Dec 2021_)
 - Worked on the database level of various judicial management systems of different
 quickly evolving countries using.
 - Built and supported analytical tools allowing quick ad-hoc queries.
@@ -55,7 +55,7 @@ the client countries.
 
 ---
 
-## Projects
+## **Projects**
 
 ### Sequential testing tools for interleaving experiments
 
@@ -78,11 +78,11 @@ The strength of interleaving lies in its streamlined approach, utilizing one-sam
 
 #### My implementation:
 In my suite of sequential testing tools, you can currently find the implementations for the Maximized Sequential Probability Ratio Test (MaxSPRT) and O’Brien & Fleming’s Multiple Testing Procedure (OBF). Since the current methods lack explainability I have also included some convenient wrappers for non-parametric tests to measure and interpret A vs B distribution changes.
-[Project GitHub](https://github.com/EDavtyan/STIE)
+**[Project GitHub](https://github.com/EDavtyan/STIE)**
 
 ---
 
-## Publications
+## **Publications**
 [Poghosyan A](https://scholar.google.cl/citations?user=A0He6ugAAAAJ&hl=en),
 [Harutyunyan A](https://scholar.google.cl/citations?hl=en&user=G8fSsPYAAAAJ),
 **Davtyan E**, Petrosyan K, [Baloian N](https://scholar.google.cl/citations?hl=en&user=LYlzMIIAAAAJ).
