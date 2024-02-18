@@ -1,8 +1,8 @@
 title: Edgar Davtyan
-logo: /assets/img/profile_pic.PNG
+logo: /assets/img/profile_pic.png
 #description: text below image
 # show_downloads: true
 theme: jekyll-theme-minimal
-author:
-  name: Edgar Davtayn
-  email: davtyan.edd@gmail.com
+social_links:
+  - { platform: linkedin, user_url: "https://www.linkedin.com/in/edgar-davtyan-a603a5237/" }
+  - { platform: github,  user_url: "https://github.com/EDavtyan" }
