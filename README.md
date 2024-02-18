@@ -1,10 +1,6 @@
 # Data Scientist
-*Based in Armenia | davtyan.edd@gmail.com | [LinkedIn Profile]([YourLinkedInURL](https://www.linkedin.com/in/edgar-davtyan-a603a5237/)) | [GitHub Profile]([YourGitHubURL](https://github.com/EDavtyan))*
 
----
-
-## About Me
-Welcome to my professional page! I'm Edgar Davtyan, a passionate and experienced data scientist specializing in user behaviour analysis. With a background in computer science, I have extensive experience turning data into insights, driving business strategies, and solving complex problems with data.
+Welcome to my professional page! I'm Edgar, a passionate and experienced data scientist specializing in user behaviour analysis. With a background in computer science, I have extensive experience turning data into insights, driving business strategies, and solving complex problems with data.
 
 - **Programming Languages**: Python, R, SQL
 - **Libraries & Tools**: PySpark, scikit-learn, SciPy, Databricks, AWS, Jupyter Notebook, Looker, Excel, Jira, Confluence, Microsoft SQL Server, Git
