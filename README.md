@@ -6,11 +6,8 @@
 ## About Me
 Welcome to my professional page! I'm Edgar Davtyan, a passionate and experienced data scientist specializing in user behaviour analysis. With a background in computer science, I have extensive experience turning data into insights, driving business strategies, and solving complex problems with data.
 
----
-
-## Technical Skills
 - **Programming Languages**: Python, R, SQL
-- **Libraries & Tools**: PySpark, scikit-learn, SciPy, Databricks, AWS S3, Jupyter Notebook, Looker, Excel, Jira, Confluence, Microsoft SQL Server, Git
+- **Libraries & Tools**: PySpark, scikit-learn, SciPy, Databricks, AWS, Jupyter Notebook, Looker, Excel, Jira, Confluence, Microsoft SQL Server, Git
 - **Skills**: Statistics, Machine Learning, Algorithms, Data Structures, A/B Testing and Interleaving, Data Analytics, Research, Project Management, Public Speaking
 
 ---
