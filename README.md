@@ -15,7 +15,7 @@ Welcome to my professional page! I'm Edgar, a passionate and experienced data sc
 
 ## Work Experience
 
-**Data Scientist @ Picsart | User Behaviour (_Jan 2022 - Present_)**
+##### **Data Scientist @ Picsart | User Behaviour (_Jan 2022 - Present_)**
 - Delivered to production a crash anomaly detection model for the engineering
 department to monitor and track the anomalous crash activity of users' mobile
 devices.
@@ -32,18 +32,18 @@ dataset analyses leveraging clustering ML algorithms and NN.
 
 Picsart is one of the world’s largest digital creation platforms with 150M+ active monthly users, a top 20 most downloaded app worldwide for 2021, and available in over 30 languages. The platform at Picsart provides creators with advanced, intuitive AI tools, exclusive content, and a massive open-source content collection to propel their creativity.
 
-**Researcher @ FAST ADVANCE Research Grant Program | Explainable AI (_Mar 2023 - Present_)**
+##### **Researcher @ FAST ADVANCE Research Grant Program | Explainable AI (_Mar 2023 - Present_)**
 - Actively participating in a research project focused on developing interpretable,
 robust machine learning models using Dempster-Shafer theory.
 - Designing, implementing, and applying proposed explainable models in real-world datasets across
 various sectors, and participating in preparing scientific articles for high-impact conferences and journals.
 
-**Teaching Associate @ American University of Armenia | DS120 Programming for Data Science (_Jan 2022 - Jun 2022_)**
+##### **Teaching Associate @ American University of Armenia | DS120 Programming for Data Science (_Jan 2022 - Jun 2022_)**
 - Conducted problem-solving sessions.
 - Graded homework.
 - This role enhanced my ability to communicate complex ideas simply.
 
-**Database Developer @ Synergy International Systems | Judiciary Systems (_Sep 2019 - Dec 2021_)**
+##### **Database Developer @ Synergy International Systems | Judiciary Systems (_Sep 2019 - Dec 2021_)**
 - Worked on the database level of various judicial management systems of different
 quickly evolving countries using.
 - Built and supported analytical tools allowing quick ad-hoc queries.
