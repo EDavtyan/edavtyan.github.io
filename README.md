@@ -67,7 +67,7 @@ To address this, I have implemented a suite of sequential testing tools for inte
 Unlike A/B testing, which divides consumers into separate groups, interleaving combines lists from control and treatment rankers, presenting them in an interwoven format.  
 
 ![Caption: A comparison between A/B testing and Interleaving methodologies](assets/img/ab_vs_interleaving.png)
-<figcaption align="center">Figure 1: A comparison between A/B testing and Interleaving methodologies.<a href="https://netflixtechblog.com/interleaving-in-online-experiments-at-netflix-a04ee392ec55">Source: Netflix TechBlog</a></figcaption>  
+<figcaption align="center">Figure 1: A comparison between A/B testing and Interleaving methodologies. <a href="https://netflixtechblog.com/interleaving-in-online-experiments-at-netflix-a04ee392ec55">Source: Netflix TechBlog</a></figcaption>  
 
 This method not only mitigates the issues of position bias but also leverages the entire sample for a single, more stable distribution, thereby reducing variance and increasing the speed of experimentation.
 The process involves rounds where the highest-ranked items not already present in the interleaved list are selected from both control and treatment rankers. The preference signal—derived from which ranker's items are more engaged with—serves as the indicator of superiority between the two rankers, bypassing the need for conventional control and treatment group comparisons.
@@ -76,7 +76,9 @@ The process involves rounds where the highest-ranked items not already present i
 
 The strength of interleaving lies in its streamlined approach, utilizing one-sample tests over two-sample tests, hence reducing variability and required sample size. This technique not only consolidates the sample to estimate a single distribution but also amplifies sensitivity to treatment effects by extracting additional signals from consumer preferences under forced choice conditions.
 
-
+#### My implementation:
+In my suite of sequential testing tools, you can currently find the implementations for the Maximized Sequential Probability Ratio Test (MaxSPRT) and O’Brien & Fleming’s Multiple Testing Procedure (OBF). Since the current methods lack explainability I have also included some convenient wrappers for non-parametric tests to measure and interpret A vs B distribution changes.
+[Project GitHub](https://github.com/EDavtyan/STIE)
 
 ---
 
