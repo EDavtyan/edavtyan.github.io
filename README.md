@@ -19,8 +19,8 @@ Welcome to my professional page! I'm Edgar, a passionate and experienced data sc
 - Delivered to production a crash anomaly detection model for the engineering
 department to monitor and track the anomalous crash activity of users' mobile
 devices.
-- Researched and adapted alternative hypothesis testing approaches (implemented Sequential Testing for Interleaving)
-to accelerate the company's data-driven decision-making processes.
+- Researched and adapted alternative hypothesis testing approaches (implemented Sequential Testing for Interleaving).
+Accelerate the company's data-driven decision-making processes by up to 5 times.
 - A/B testing and Interleaving, hypothesis testing. Communicated findings to both technical and non-technical
 stakeholders, effectively translating complex analyses into actionable business insights.
 - Conducted training for the AI department on leveraging the company's data and
@@ -29,6 +29,8 @@ promoted one of the main Data Flywheel initiatives among ML Scientists.
 advanced statistical techniques to real-time decision systems, and performed visual
 dataset analyses leveraging clustering ML algorithms and NN.
 - Engaged in research-oriented tasks to inform product and operational decisions.
+
+Picsart is one of the world’s largest digital creation platforms with 150M+ active monthly users, a top 20 most downloaded app worldwide for 2021, and available in over 30 languages. The platform at Picsart provides creators with advanced, intuitive AI tools, exclusive content, and a massive open-source content collection to propel their creativity.
 
 **Researcher @ FAST ADVANCE Research Grant Program | Explainable AI (_Mar 2023 - Present_)**
 - Actively participating in a research project focused on developing interpretable,
@@ -48,6 +50,8 @@ quickly evolving countries using.
 - Developed jobs, triggers, and stored procedures for SQL servers using Transact-SQL and PostgreSQL.
 - Actively participated in conducting technical training for the ministry employees of
 the client countries.
+
+Synergy International Systems is a global software company that empowers organizations to become more data-driven in achieving their impact, improving information management, decision-making, service delivery, and organizational effectiveness. It is a privately held company headquartered in the Washington, D.C. metro area, with a Development and Global Learning Center in Yerevan, Armenia.
 
 ---
 
