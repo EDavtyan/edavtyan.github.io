@@ -9,15 +9,13 @@ Welcome to my professional page! I'm Edgar, a passionate and experienced data sc
 ---
 
 ## Education
-MS in Data Science - **IU International University of Applied Sciences**
-(2023 - 2024, Germany)
+- MS in Data Science - **IU International University of Applied Sciences** (2023 - 2024, Germany)
 
-BS in Computer Science - **American University of Armenia**
-(2017 - 2021, Armenia)
+- BS in Computer Science - **American University of Armenia** (2017 - 2021, Armenia)
 
 ## Work Experience
 
-###  Data Scientist @ Picsart | User Behaviour (_Jan 2022 - Present_)
+**Data Scientist @ Picsart | User Behaviour (_Jan 2022 - Present_)**
 - Delivered to production a crash anomaly detection model for the engineering
 department to monitor and track the anomalous crash activity of users' mobile
 devices.
@@ -32,18 +30,18 @@ advanced statistical techniques to real-time decision systems, and performed vis
 dataset analyses leveraging clustering ML algorithms and NN.
 - Engaged in research-oriented tasks to inform product and operational decisions.
 
-### Researcher @ FAST ADVANCE Research Grant Program | Explainable AI (_Mar 2023 - Present_)
+**Researcher @ FAST ADVANCE Research Grant Program | Explainable AI (_Mar 2023 - Present_)**
 - Actively participating in a research project focused on developing interpretable,
 robust machine learning models using Dempster-Shafer theory.
 - Designing, implementing, and applying proposed explainable models in real-world datasets across
 various sectors, and participating in preparing scientific articles for high-impact conferences and journals.
 
-### Teaching Associate @ American University of Armenia | DS120 Programming for Data Science (_Jan 2022 - Jun 2022_)
-- Conducted problem-solving sessions
-- Graded homework
+**Teaching Associate @ American University of Armenia | DS120 Programming for Data Science (_Jan 2022 - Jun 2022_)**
+- Conducted problem-solving sessions.
+- Graded homework.
 - This role enhanced my ability to communicate complex ideas simply.
 
-### Database Developer @ Synergy International Systems | Judiciary Systems (_Sep 2019 - Dec 2021_)
+**Database Developer @ Synergy International Systems | Judiciary Systems (_Sep 2019 - Dec 2021_)**
 - Worked on the database level of various judicial management systems of different
 quickly evolving countries using.
 - Built and supported analytical tools allowing quick ad-hoc queries.
