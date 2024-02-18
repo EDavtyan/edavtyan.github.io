@@ -4,5 +4,6 @@ logo: /assets/img/profile_pic.png
 # show_downloads: true
 theme: jekyll-theme-minimal
 social_links:
-  - { platform: linkedin, user_url: "https://www.linkedin.com/in/davtyaned/" }
-  - { platform: github,  user_url: "https://github.com/EDavtyan" }
+  github: https://github.com/EDavtyan
+  linkedin: https://www.linkedin.com/in/davtyaned/
+  email: mailto:davtyan.edd@gmail.com
