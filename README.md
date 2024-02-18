@@ -64,10 +64,10 @@ To address this, I have implemented a suite of sequential testing tools for inte
 
 #### How Interleaving Works:
 
-Unlike A/B testing, which divides consumers into separate groups, interleaving combines lists from control and treatment rankers, presenting them in an interwoven format. 
+Unlike A/B testing, which divides consumers into separate groups, interleaving combines lists from control and treatment rankers, presenting them in an interwoven format.  
 
 ![Caption: A comparison between A/B testing and Interleaving methodologies](assets/img/ab_vs_interleaving.png)
-<figcaption align="center">Figure 1: A comparison between A/B testing and Interleaving methodologies.<br><a href="https://netflixtechblog.com/interleaving-in-online-experiments-at-netflix-a04ee392ec55">Source: Netflix TechBlog</a></figcaption>
+<figcaption align="center">Figure 1: A comparison between A/B testing and Interleaving methodologies.<a href="https://netflixtechblog.com/interleaving-in-online-experiments-at-netflix-a04ee392ec55">Source: Netflix TechBlog</a></figcaption>  
 
 This method not only mitigates the issues of position bias but also leverages the entire sample for a single, more stable distribution, thereby reducing variance and increasing the speed of experimentation.
 The process involves rounds where the highest-ranked items not already present in the interleaved list are selected from both control and treatment rankers. The preference signal—derived from which ranker's items are more engaged with—serves as the indicator of superiority between the two rankers, bypassing the need for conventional control and treatment group comparisons.
