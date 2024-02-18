@@ -88,10 +88,3 @@ In my suite of sequential testing tools, you can currently find the implementati
 **Davtyan E**, Petrosyan K, [Baloian N](https://scholar.google.cl/citations?hl=en&user=LYlzMIIAAAAJ).
 A Study on Automated Problem Troubleshooting in Cloud Environments with Rule Induction and
 Verification. Applied Sciences. 2024; 14(3):1047. [https://doi.org/10.3390/app14031047](https://doi.org/10.3390/app14031047)
-
----
-
-minima:
-  social_links:
-    - { platform: github,  user_url: "https://github.com/EDavtyan" }
-    - { platform: linkedin, user_url: "https://www.linkedin.com/in/davtyaned/" }
