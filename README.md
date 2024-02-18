@@ -20,7 +20,7 @@ Welcome to my professional page! I'm Edgar, a passionate and experienced data sc
 department to monitor and track the anomalous crash activity of users' mobile
 devices.
 - Researched and adapted alternative hypothesis testing approaches (implemented Sequential Testing for Interleaving).
-Accelerate the company's data-driven decision-making processes by up to 5 times.
+Accelerated up to 5 times the company's data-driven decision-making processes.
 - A/B testing and Interleaving, hypothesis testing. Communicated findings to both technical and non-technical
 stakeholders, effectively translating complex analyses into actionable business insights.
 - Conducted training for the AI department on leveraging the company's data and
