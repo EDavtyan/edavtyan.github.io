@@ -23,12 +23,13 @@ devices.
 _Accelerated up to 5 times_ the company's data-driven decision-making processes.
 - A/B testing and Interleaving, hypothesis testing. Communicated findings to both technical and non-technical
 stakeholders, effectively translating complex analyses into actionable business insights.
-- Conducted training for the AI department on leveraging the company's data and
-promoted one of the main Data Flywheel initiatives among ML Scientists.
 - Handled large datasets using PySpark and SQL via Databricks and AWS, applied
 advanced statistical techniques to real-time decision systems, and performed visual
 dataset analyses leveraging clustering ML algorithms and NN.
 - Engaged in research-oriented tasks to inform product and operational decisions.
+- Conducted training for the AI department on leveraging the company's data and
+promoted one of the main Data Flywheel initiatives among ML Scientists.
+
 
   Picsart is one of the world’s largest digital creation platforms with 150M+ active monthly users, a top 20 most downloaded app worldwide for 2021, and available in over 30 languages. The platform at Picsart provides creators with advanced, intuitive AI tools, exclusive content, and a massive open-source content collection to propel their creativity.
 
