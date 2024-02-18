@@ -20,12 +20,12 @@ Welcome to my professional page! I'm Edgar, a passionate and experienced data sc
 department to monitor and track the anomalous crash activity of users' mobile
 devices.
 - Researched and adapted alternative hypothesis testing approaches (implemented Sequential Testing for Interleaving).
-Accelerated up to 5 times the company's data-driven decision-making processes.
+_Accelerated up to 5 times_ the company's data-driven decision-making processes.
 - A/B testing and Interleaving, hypothesis testing. Communicated findings to both technical and non-technical
 stakeholders, effectively translating complex analyses into actionable business insights.
 - Conducted training for the AI department on leveraging the company's data and
 promoted one of the main Data Flywheel initiatives among ML Scientists.
-- Handled large datasets using PySpark and SQL via Databricks and AWS S3, applied
+- Handled large datasets using PySpark and SQL via Databricks and AWS, applied
 advanced statistical techniques to real-time decision systems, and performed visual
 dataset analyses leveraging clustering ML algorithms and NN.
 - Engaged in research-oriented tasks to inform product and operational decisions.
@@ -45,7 +45,7 @@ various sectors, and participating in preparing scientific articles for high-imp
 
 ### Database Developer @ Synergy International Systems | Judiciary Systems (_Sep 2019 - Dec 2021_)
 - Worked on the database level of various judicial management systems of different
-quickly evolving countries using.
+quickly evolving countries.
 - Built and supported analytical tools allowing quick ad-hoc queries.
 - Developed jobs, triggers, and stored procedures for SQL servers using Transact-SQL and PostgreSQL.
 - Actively participated in conducting technical training for the ministry employees of
