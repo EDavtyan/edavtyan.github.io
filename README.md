@@ -56,6 +56,15 @@ the client countries.
 
 ---
 
+## **Publications**
+[Poghosyan A](https://scholar.google.cl/citations?user=A0He6ugAAAAJ&hl=en),
+[Harutyunyan A](https://scholar.google.cl/citations?hl=en&user=G8fSsPYAAAAJ),
+**Davtyan E**, Petrosyan K, [Baloian N](https://scholar.google.cl/citations?hl=en&user=LYlzMIIAAAAJ).
+A Study on Automated Problem Troubleshooting in Cloud Environments with Rule Induction and
+Verification. Applied Sciences. 2024; 14(3):1047. [https://doi.org/10.3390/app14031047](https://doi.org/10.3390/app14031047)
+
+---
+
 ## **Projects**
 
 ### Sequential testing tools for interleaving experiments
@@ -80,12 +89,3 @@ The strength of interleaving lies in its streamlined approach, utilizing one-sam
 #### My implementation:
 In my suite of sequential testing tools, you can currently find the implementations for the Maximized Sequential Probability Ratio Test (MaxSPRT) and O’Brien & Fleming’s Multiple Testing Procedure (OBF). Since the current methods lack explainability I have also included some convenient wrappers for non-parametric tests to measure and interpret A vs B distribution changes.
 **[Project GitHub](https://github.com/EDavtyan/STIE)**
-
----
-
-## **Publications**
-[Poghosyan A](https://scholar.google.cl/citations?user=A0He6ugAAAAJ&hl=en),
-[Harutyunyan A](https://scholar.google.cl/citations?hl=en&user=G8fSsPYAAAAJ),
-**Davtyan E**, Petrosyan K, [Baloian N](https://scholar.google.cl/citations?hl=en&user=LYlzMIIAAAAJ).
-A Study on Automated Problem Troubleshooting in Cloud Environments with Rule Induction and
-Verification. Applied Sciences. 2024; 14(3):1047. [https://doi.org/10.3390/app14031047](https://doi.org/10.3390/app14031047)
