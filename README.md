@@ -13,6 +13,17 @@ Welcome to my professional page! I'm Edgar, a passionate and experienced data sc
 
 - BS in Computer Science - **American University of Armenia** (2017 - 2021, Armenia)
 
+---
+
+## **Publications**
+[Poghosyan A](https://scholar.google.cl/citations?user=A0He6ugAAAAJ&hl=en),
+[Harutyunyan A](https://scholar.google.cl/citations?hl=en&user=G8fSsPYAAAAJ),
+**Davtyan E**, Petrosyan K, [Baloian N](https://scholar.google.cl/citations?hl=en&user=LYlzMIIAAAAJ).
+A Study on Automated Problem Troubleshooting in Cloud Environments with Rule Induction and
+Verification. Applied Sciences. 2024; 14(3):1047. [https://doi.org/10.3390/app14031047](https://doi.org/10.3390/app14031047)
+
+---
+
 ## **Work Experience**
 
 ### Data Scientist @ Picsart | User Behaviour (_Jan 2022 - Present_)
@@ -53,15 +64,6 @@ quickly evolving countries.
 the client countries.
 
   Synergy International Systems is a global software company that empowers organizations to become more data-driven in achieving their impact, improving information management, decision-making, service delivery, and organizational effectiveness. It is a privately held company headquartered in the Washington, D.C. metro area, with a Development and Global Learning Center in Yerevan, Armenia.
-
----
-
-## **Publications**
-[Poghosyan A](https://scholar.google.cl/citations?user=A0He6ugAAAAJ&hl=en),
-[Harutyunyan A](https://scholar.google.cl/citations?hl=en&user=G8fSsPYAAAAJ),
-**Davtyan E**, Petrosyan K, [Baloian N](https://scholar.google.cl/citations?hl=en&user=LYlzMIIAAAAJ).
-A Study on Automated Problem Troubleshooting in Cloud Environments with Rule Induction and
-Verification. Applied Sciences. 2024; 14(3):1047. [https://doi.org/10.3390/app14031047](https://doi.org/10.3390/app14031047)
 
 ---
 
