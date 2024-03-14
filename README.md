@@ -4,7 +4,7 @@ Welcome to my professional page! I'm Edgar, a passionate and experienced data sc
 
 - **Programming Languages**: Python, R, SQL
 - **Libraries & Tools**: PySpark, scikit-learn, SciPy, PyTorch, Databricks, AWS, Jupyter Notebook, Microsoft SQL Server, Git, Looker, Jira, Confluence
-- **Skills**: Statistics, Machine Learning, Algorithms, A/B Testing and Interleaving, Data Analytics, Research, Project Management, Public Speaking
+- **Skills**: Statistics, Machine Learning, A/B Testing and Interleaving, Data Analytics, Algorithms, Research, Project Management, Public Speaking
 
 ---
 
