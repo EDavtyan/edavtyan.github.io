@@ -30,7 +30,7 @@ Verification. Applied Sciences. 2024; 14(3):1047. [https://doi.org/10.3390/app14
 - Delivered to production a crash anomaly detection model for the engineering
 department to monitor and track the anomalous crash activity of users' mobile
 devices.
-- _Accelerated up to 5 times_ the company's data-driven decision-making processes through researching and adapting alternative hypothesis testing approaches (implemented Sequential Testing for Interleaving).
+- Accelerated up to 5 times the company's data-driven decision-making processes through researching and adapting alternative hypothesis testing approaches (implemented Sequential Testing for Interleaving).
 - A/B testing and Interleaving, hypothesis testing. Communicated findings to both technical and non-technical
 stakeholders, effectively translating complex analyses into actionable business insights.
 - Handled large datasets using PySpark and SQL via Databricks and AWS, applied
