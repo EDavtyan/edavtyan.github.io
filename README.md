@@ -43,7 +43,7 @@ promoted one of the main Data Flywheel initiatives among ML Scientists.
 
   Picsart is one of the world’s largest digital creation platforms with 150M+ active monthly users, a top 20 most downloaded app worldwide for 2021, and available in over 30 languages. The platform at Picsart provides creators with advanced, intuitive AI tools, exclusive content, and a massive open-source content collection to propel their creativity.
 
-### Researcher @ FAST ADVANCE Research Grant Program | Explainable AI (_Mar 2023 - Present_)
+### Junior Researcher @ FAST ADVANCE Research Grant Program | Explainable AI (_Mar 2023 - Present_)
 - Actively participating in a research project focused on developing interpretable,
 robust machine learning models using Dempster-Shafer theory.
 - Designing, implementing, and applying proposed explainable models in real-world datasets across
