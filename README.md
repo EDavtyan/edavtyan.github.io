@@ -3,7 +3,7 @@
 Welcome to my professional page! I'm Edgar, a passionate and experienced data scientist specializing in user behaviour analysis. With a background in computer science, I have extensive experience turning data into insights, driving business strategies, and solving complex problems with data.
 
 - **Programming Languages**: Python, R, SQL
-- **Libraries & Tools**: PySpark, scikit-learn, SciPy, PyTorch, statsmodels, Databricks, AWS, Jupyter Notebook, Microsoft SQL Server, Git, Looker, Jira, Confluence
+- **Libraries & Tools**: PySpark, scikit-learn, SciPy, PyTorch, statsmodels, Databricks, AWS, Jupyter Notebook, SQL Server, PostgreSQL, Git, Looker, Jira, Confluence
 - **Skills**: Statistics, Machine Learning, A/B Testing and Interleaving, Data Analytics, Algorithms, Research, Project Management, Public Speaking
 
 ---
