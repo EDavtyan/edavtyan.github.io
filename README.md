@@ -89,4 +89,5 @@ The strength of interleaving lies in its streamlined approach, utilizing one-sam
 
 #### My implementation:
 In my suite of sequential testing tools, you can currently find the implementations for the Maximized Sequential Probability Ratio Test (MaxSPRT) and O’Brien & Fleming’s Multiple Testing Procedure (OBF). Since the current methods lack explainability I have also included some convenient wrappers for non-parametric tests to measure and interpret A vs B distribution changes.
-**[Project GitHub](https://github.com/EDavtyan/STIE)**
+More detailed explanations and source code snippets are available upon request, just contact me via email at [davtyan.edd@gmail.com](mailto:davtyan.edd@gmail.com).
+<!--- **[Project GitHub](https://github.com/EDavtyan/STIE)** -->
