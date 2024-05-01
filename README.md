@@ -91,11 +91,11 @@ The strength of interleaving lies in its streamlined approach, utilizing one-sam
 
 In my suite of sequential testing tools, you'll find sophisticated implementations for the Maximized Sequential Probability Ratio Test (MaxSPRT) and O’Brien & Fleming’s Multiple Testing Procedure (OBF), both integral to the STIE Python package designed for online interleaving experimentations. This suite is pivotal in deciding the early termination of an experiment or the need for continued data collection, optimizing resource allocation and enhancing efficiency in experimental settings.
 
-**MaxSPRT** is uniquely adapted from classical methods to be more sensitive across various relative risks by employing a composite hypothesis, making it highly effective for real-time data analysis, such as in vaccine safety surveillance. Its effectiveness in real-world applications is documented in Kulldorff et al. (2011)^[1^].
+**MaxSPRT** is uniquely adapted from classical methods to be more sensitive across various relative risks by employing a composite hypothesis, making it highly effective for real-time data analysis, such as in vaccine safety surveillance. Its effectiveness in real-world applications is documented in Kulldorff et al. (2011) [1^].
 
-**OBF** offers a rigorous framework for clinical trials, enabling early study termination based on initial results while controlling the type I error rate, crucial for maintaining the ethical and statistical integrity of clinical trials. This method's utility and robustness are detailed in O'Brien & Fleming (1979)^[2^].
+**OBF** offers a rigorous framework for clinical trials, enabling early study termination based on initial results while controlling the type I error rate, crucial for maintaining the ethical and statistical integrity of clinical trials. This method's utility and robustness are detailed in O'Brien & Fleming (1979) [2^].
 
-These methods have been adeptly tailored for dynamic monitoring of online experiments, particularly in environments like search engine evaluations, reducing experiment durations without compromising outcome reliability, as discussed by Kharitonov et al. (2015)^[3^].
+These methods have been adeptly tailored for dynamic monitoring of online experiments, particularly in environments like search engine evaluations, reducing experiment durations without compromising outcome reliability, as discussed by Kharitonov et al. (2015) [^3].
 
 For a more comprehensive overview and access to source code snippets, please feel free to contact me via email at [davtyan.edd@gmail.com](mailto:davtyan.edd@gmail.com).
 
