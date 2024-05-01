@@ -22,6 +22,11 @@ Welcome to my professional page! I'm Edgar, a passionate and experienced data sc
 A Study on Automated Problem Troubleshooting in Cloud Environments with Rule Induction and
 Verification. Applied Sciences. 2024; 14(3):1047. [https://doi.org/10.3390/app14031047](https://doi.org/10.3390/app14031047)
 
+[Poghosyan A.](https://scholar.google.cl/citations?user=A0He6ugAAAAJ&hl=en);
+[Harutyunyan A.](https://scholar.google.cl/citations?hl=en&user=G8fSsPYAAAAJ); 
+**Davtyan, E.**; Petrosyan, K.; [Baloian N.](https://scholar.google.cl/citations?hl=en&user=LYlzMIIAAAAJ) 
+Diagnosis-Effective Sampling of Application Traces. Preprints 2024, 2024041876. [https://doi.org/10.20944/preprints202404.1876.v1](https://doi.org/10.20944/preprints202404.1876.v1)
+
 ---
 
 ## **Work Experience**
