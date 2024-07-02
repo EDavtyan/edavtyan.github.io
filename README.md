@@ -25,7 +25,7 @@ Verification. Applied Sciences. 2024; 14(3):1047. [https://doi.org/10.3390/app14
 [Poghosyan A.](https://scholar.google.cl/citations?user=A0He6ugAAAAJ&hl=en);
 [Harutyunyan A.](https://scholar.google.cl/citations?hl=en&user=G8fSsPYAAAAJ); 
 **Davtyan, E.**; Petrosyan, K.; [Baloian N.](https://scholar.google.cl/citations?hl=en&user=LYlzMIIAAAAJ)
-The Diagnosis-Effective Sampling of Application Traces. Appl. Sci. 2024, 14, 5779. [https://doi.org/10.3390/app14135779]
+The Diagnosis-Effective Sampling of Application Traces. Appl. Sci. 2024, 14, 5779. [https://doi.org/10.3390/app14135779](https://doi.org/10.3390/app14135779)
 
 ---
 
