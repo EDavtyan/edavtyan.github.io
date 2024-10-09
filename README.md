@@ -1,6 +1,6 @@
 # Data Scientist
 
-Welcome to my professional page! I'm Edgar, a passionate and experienced data scientist specializing in user behaviour analysis. With a background in computer science, I have extensive experience turning data into insights, driving business strategies, and solving complex problems with data.
+Welcome to my professional page! I'm Edgar, a passionate and experienced data scientist specializing in user behavior analysis. With a background in computer science, I have extensive experience turning data into insights, driving business strategies, and solving complex problems with data.
 
 - **Programming Languages**: Python, R, SQL
 - **Libraries & Tools**: PySpark, scikit-learn, SciPy, PyTorch, statsmodels, Databricks, AWS, Jupyter Notebook, SQL Server, PostgreSQL, Git, Looker, Jira, Confluence
@@ -9,7 +9,7 @@ Welcome to my professional page! I'm Edgar, a passionate and experienced data sc
 ---
 
 ## **Education**
-- MS in Data Science - **IU International University of Applied Sciences** (2023 - 2024, Germany)
+- MS in Data Science - **IU International University of Applied Sciences** (2023 - 2025, Germany)
 
 - BS in Computer Science - **American University of Armenia** (2017 - 2021, Armenia)
 
@@ -31,7 +31,14 @@ Verification. Applied Sciences. 2024; 14(3):1047. [https://doi.org/10.3390/app14
 
 ## **Work Experience**
 
-### Data Scientist @ Picsart | User Behaviour (_Jan 2022 - Present_)
+### Junior Researcher @ FAST ADVANCE Research Grant Program | Explainable AI (_Mar 2023 - Present_)
+- Working on a research project focused on developing interpretable,
+robust machine learning models using Dempster-Shafer theory.
+- Designing, implementing, and applying proposed explainable models in real-world datasets across
+various sectors
+- Preparing scientific articles for high-impact conferences and journals.
+
+### Data Scientist @ Picsart | User Behaviour (_Jan 2022 - Aug 2024_)
 - Delivered to production a crash anomaly detection model for the engineering
 department to monitor and track the anomalous crash activity of users' mobile
 devices.
@@ -47,12 +54,6 @@ promoted one of the main Data Flywheel initiatives among ML Scientists.
 
 
   Picsart is one of the world’s largest digital creation platforms with 150M+ active monthly users, a top 20 most downloaded app worldwide for 2021, and available in over 30 languages. The platform at Picsart provides creators with advanced, intuitive AI tools, exclusive content, and a massive open-source content collection to propel their creativity.
-
-### Junior Researcher @ FAST ADVANCE Research Grant Program | Explainable AI (_Mar 2023 - Present_)
-- Actively participating in a research project focused on developing interpretable,
-robust machine learning models using Dempster-Shafer theory.
-- Designing, implementing, and applying proposed explainable models in real-world datasets across
-various sectors, and participating in preparing scientific articles for high-impact conferences and journals.
 
 ### Teaching Associate @ American University of Armenia | DS120 Programming for Data Science (_Jan 2022 - Jun 2022_)
 - Conducted problem-solving sessions.
