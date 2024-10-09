@@ -35,7 +35,7 @@ Verification. Applied Sciences. 2024; 14(3):1047. [https://doi.org/10.3390/app14
 - Working on a research project focused on developing interpretable,
 robust machine learning models using Dempster-Shafer theory.
 - Designing, implementing, and applying proposed explainable models in real-world datasets across
-various sectors
+various sectors.
 - Preparing scientific articles for high-impact conferences and journals.
 
 ### Data Scientist @ Picsart | User Behaviour (_Jan 2022 - Aug 2024_)
@@ -58,7 +58,6 @@ promoted one of the main Data Flywheel initiatives among ML Scientists.
 ### Teaching Associate @ American University of Armenia | DS120 Programming for Data Science (_Jan 2022 - Jun 2022_)
 - Conducted problem-solving sessions.
 - Graded homework.
-- This role enhanced my ability to communicate complex ideas simply.
 
 ### Database Developer @ Synergy International Systems | Judiciary Systems (_Sep 2019 - Dec 2021_)
 - Worked on the database level of various judicial management systems of different
