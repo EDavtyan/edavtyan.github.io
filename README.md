@@ -31,7 +31,7 @@ Verification. Applied Sciences. 2024; 14(3):1047. [https://doi.org/10.3390/app14
 
 ## **Work Experience**
 
-### Junior Researcher @ FAST ADVANCE Research Grant Program | Explainable AI (_Mar 2023 - Present_)
+### Junior Researcher @ FAST ADVANCE | Explainable AI (_Mar 2023 - Present_)
 - Working on a research project focused on developing interpretable,
 robust machine learning models using Dempster-Shafer theory.
 - Designing, implementing, and applying proposed explainable models in real-world datasets across
