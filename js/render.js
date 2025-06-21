@@ -3,7 +3,7 @@ import { fetchData, parseMarkdown, incrementLike, getLikes, incrementView, getVi
 function renderPage() {
     fetchData('data/data.json')
         .then(data => {
-            const container = document.getElementById('content');
+            const container = document.getElementById('feed');
             container.innerHTML = `<h1>${data.title}</h1><p>${data.message}</p>`;
         })
         .catch(err => {
@@ -13,7 +13,7 @@ function renderPage() {
 
 function renderPost(post) {
     incrementView(post.id);
-    const container = document.getElementById('content');
+    const container = document.getElementById('feed');
 
     const postDiv = document.createElement('div');
     postDiv.className = 'post';

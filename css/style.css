@@ -5,7 +5,7 @@ body {
     line-height: 1.6;
 }
 
-#content {
+#feed {
     max-width: 800px;
     margin: 2rem auto;
     padding: 0 1rem;
@@ -17,4 +17,24 @@ body {
     border-radius: 6px;
     font-style: italic;
     margin-bottom: 4rem;
+}
+
+.contraption-nav {
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+    font-family: monospace;
+    margin: 1rem 0;
+    padding: 0.5rem;
+}
+
+.contraption-nav a {
+    color: #c41c1c;
+    text-decoration: none;
+    border-bottom: 1px dashed transparent;
+    padding: 0.25rem 0.5rem;
+}
+
+.contraption-nav a:hover {
+    border-bottom-color: #999;
 }
