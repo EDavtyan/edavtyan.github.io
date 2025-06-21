@@ -1,4 +1,4 @@
-import { fetchData, parseMarkdown, incrementLike, getLikes, incrementView, getViews } from './utils.js';
+import { fetchData, parseMarkdown } from './utils.js';
 
 function renderPage() {
     fetchData('data/data.json')
@@ -12,7 +12,6 @@ function renderPage() {
 }
 
 function renderPost(post) {
-    incrementView(post.id);
     const container = document.getElementById('feed');
 
     const postDiv = document.createElement('div');
@@ -26,23 +25,12 @@ function renderPost(post) {
         images = post.images.map(src => `<img src="${src}" alt="">`).join('');
     }
 
-    const likes = getLikes(post.id);
-    const views = getViews(post.id);
-
     postDiv.innerHTML = `
         <h2>${post.title}</h2>
         <div class="date">${formattedDate}</div>
         <div class="body">${parseMarkdown(post.body)}</div>
         <div class="images">${images}</div>
-        <div class="meta">Views: <span class="views">${views}</span> Likes: <span class="likes">${likes}</span></div>
-        <button class="like-btn">Like</button>
     `;
-
-    const likeBtn = postDiv.querySelector('.like-btn');
-    likeBtn.addEventListener('click', () => {
-        const newLikes = incrementLike(post.id);
-        postDiv.querySelector('.likes').textContent = newLikes;
-    });
 
     container.appendChild(postDiv);
 }
