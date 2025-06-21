@@ -1,0 +1,20 @@
+[
+  {
+    "id": "unique-slug",
+    "title": "\ud83d\udcf8 Sample Album",
+    "date": "2025-06-21T14:00:00Z",
+    "body": "This is *italic* and **bold** text with a `code` snippet.",
+    "images": ["photos/sample1.jpg", "photos/sample2.jpg"],
+    "views": 0,
+    "likes": 0
+  },
+  {
+    "id": "another-slug",
+    "title": "\ud83c\udf89 Another Album",
+    "date": "2025-07-01T10:30:00Z",
+    "body": "Another *italic* piece of **text** with `code` snippet.",
+    "images": ["photos/another1.jpg", "photos/another2.jpg"],
+    "views": 0,
+    "likes": 0
+  }
+]
