@@ -4,15 +4,26 @@
     <meta charset="UTF-8">
     <title>Edgar Davtyan</title>
     <link rel="stylesheet" href="css/style.css">
+    <!-- Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-1234567890"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-1234567890');
+    </script>
 </head>
 <body>
-    <nav>
+    <nav class="contraption-nav">
+        <a href="#feed">Feed</a>
         <a href="#now">Now</a>
+        <a href="#contact">Contact</a>
     </nav>
-    <div id="content"></div>
+    <div id="feed"></div>
     <section id="now" class="now">
         <p>Currently exploring new data science projects and refining my skills.</p>
     </section>
+    <script src="js/utils.js"></script>
     <script type="module" src="js/render.js"></script>
 </body>
 </html>
