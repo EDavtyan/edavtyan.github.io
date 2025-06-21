@@ -4,17 +4,13 @@
     "title": "Hello World",
     "date": "2025-06-25T10:00:00Z",
     "body": "This is my first post. It supports **bold**, *italic* and `code`.",
-    "images": ["photos/sample1.jpg"],
-    "views": 0,
-    "likes": 0
+    "images": ["photos/sample1.jpg"]
   },
   {
     "id": "another-post",
     "title": "Another Post",
     "date": "2025-07-04T08:00:00Z",
     "body": "Another post body.",
-    "images": [],
-    "views": 0,
-    "likes": 0
+    "images": []
   }
 ]
