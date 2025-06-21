@@ -2,28 +2,97 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Edgar Davtyan</title>
-    <link rel="stylesheet" href="css/style.css">
-    <!-- Google Analytics -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-1234567890"></script>
-    <script>
-      window.dataLayer = window.dataLayer || [];
-      function gtag(){dataLayer.push(arguments);}
-      gtag('js', new Date());
-      gtag('config', 'G-1234567890');
-    </script>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Edgar Davtyan – Data Scientist</title>
+    <link href="https://fonts.googleapis.com/css2?family=EB+Garamond:wght@400;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-    <nav class="contraption-nav">
-        <a href="#feed">Feed</a>
-        <a href="#now">Now</a>
-        <a href="#contact">Contact</a>
-    </nav>
-    <div id="feed"></div>
-    <section id="now" class="now">
+    <header>
+        <h1>EDAVTYAN</h1>
+        <nav>
+            <a href="#about">About Me</a>
+            <a href="#now">Now</a>
+            <a href="#photos">Photos</a>
+            <a href="#thoughts">Thoughts</a>
+            <a href="#code">Code</a>
+            <a href="#contact">Contact</a>
+        </nav>
+    </header>
+
+    <section id="about">
+        <h2>Data Scientist</h2>
+        <p>Welcome to my professional page! I'm Edgar, a passionate and experienced data scientist specializing in user behavior analysis. With a background in computer science, I turn data into insights that drive business strategies.</p>
+        <ul>
+            <li><strong>Programming Languages:</strong> Python, R, SQL</li>
+            <li><strong>Libraries &amp; Tools:</strong> PySpark, scikit-learn, SciPy, PyTorch, statsmodels, Databricks, AWS, Jupyter Notebook, SQL Server, PostgreSQL, Git, Looker, Jira, Confluence</li>
+            <li><strong>Skills:</strong> Statistics, Machine Learning, A/B Testing and Interleaving, Data Analytics, Algorithms, Research, Project Management, Public Speaking</li>
+        </ul>
+        <h3>Education</h3>
+        <ul>
+            <li>MS in Data Science - <strong>IU International University of Applied Sciences</strong> (2023 - 2025, Germany)</li>
+            <li>BS in Computer Science - <strong>American University of Armenia</strong> (2017 - 2021, Armenia)</li>
+        </ul>
+        <h3>Publications</h3>
+        <ul>
+            <li><a href="https://doi.org/10.3390/app14135779">The Diagnosis-Effective Sampling of Application Traces</a> (Applied Sciences, 2024)</li>
+            <li><a href="https://doi.org/10.3390/app14031047">A Study on Automated Problem Troubleshooting in Cloud Environments with Rule Induction and Verification</a> (Applied Sciences, 2024)</li>
+        </ul>
+        <h3>Work Experience</h3>
+        <h4>Junior Researcher @ FAST ADVANCE | Explainable AI (Mar 2023 - Present)</h4>
+        <ul>
+            <li>Developing interpretable machine learning models using Dempster-Shafer theory.</li>
+            <li>Applying models to real-world datasets across various sectors.</li>
+            <li>Preparing scientific articles for high-impact venues.</li>
+        </ul>
+        <h4>Data Scientist @ Picsart | User Behaviour (Jan 2022 - Aug 2024)</h4>
+        <ul>
+            <li>Delivered a crash anomaly detection model to production.</li>
+            <li>Accelerated decision-making with sequential testing for interleaving.</li>
+            <li>Communicated complex analyses to technical and non-technical stakeholders.</li>
+            <li>Managed large datasets with PySpark and SQL via Databricks and AWS.</li>
+        </ul>
+        <h4>Teaching Associate @ American University of Armenia (Jan 2022 - Jun 2022)</h4>
+        <ul>
+            <li>Conducted problem-solving sessions and graded homework.</li>
+        </ul>
+        <h4>Database Developer @ Synergy International Systems (Sep 2019 - Dec 2021)</h4>
+        <ul>
+            <li>Developed and supported database tools for judicial management systems.</li>
+            <li>Created stored procedures in T-SQL and PostgreSQL.</li>
+            <li>Conducted technical training for ministry employees of client countries.</li>
+        </ul>
+        <h3>Projects</h3>
+        <p>Sequential testing tools for interleaving experiments (<a href="https://github.com/EDavtyan/STIE" target="_blank">STIE on GitHub</a>) help evaluate ranking algorithms quickly by mixing their results and monitoring user engagement.</p>
+    </section>
+
+    <section id="now">
+        <h2>Now</h2>
         <p>Currently exploring new data science projects and refining my skills.</p>
     </section>
-    <script src="js/utils.js"></script>
-    <script type="module" src="js/render.js"></script>
+
+    <section id="photos">
+        <h2>Photos</h2>
+        <img src="assets/img/profile_pic.png" alt="Profile picture" class="photo">
+        <em>Photo gallery coming soon.</em>
+    </section>
+
+    <section id="thoughts">
+        <h2>Thoughts</h2>
+        <p>Here I'll share my thoughts on data science and technology... (coming soon)</p>
+    </section>
+
+    <section id="code">
+        <h2>Code</h2>
+        <ul>
+            <li><a href="https://github.com/EDavtyan/STIE" target="_blank">STIE – Sequential Testing Tools for Interleaving Experiments</a></li>
+        </ul>
+    </section>
+
+    <section id="contact">
+        <h2>Contact</h2>
+        <p>Email: <a href="mailto:davtyan.edd@gmail.com">davtyan.edd@gmail.com</a></p>
+        <p>LinkedIn: <a href="https://linkedin.com/in/edavtyan" target="_blank">edavtyan</a></p>
+    </section>
 </body>
 </html>

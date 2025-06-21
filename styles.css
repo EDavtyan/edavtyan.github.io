@@ -1,0 +1,91 @@
+* { box-sizing: border-box; }
+html { scroll-behavior: smooth; }
+body {
+    margin: 0;
+    font-family: 'EB Garamond', serif;
+    font-size: 18px;
+    line-height: 1.6;
+    color: #2b2b2b;
+    background-color: #fdf5e6;
+}
+
+body { padding-top: 4.5rem; }
+
+header {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 100;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 1rem 2rem;
+    background: rgba(250,235,215,0.8);
+}
+
+header h1 {
+    margin: 0;
+    font-size: 2rem;
+    font-variant: small-caps;
+}
+
+header nav a {
+    text-decoration: none;
+    margin: 0 0.5rem;
+    color: #2b2b2b;
+    font-weight: bold;
+    font-variant: small-caps;
+}
+
+header nav a:hover {
+    text-decoration: underline;
+}
+
+section {
+    max-width: 800px;
+    margin: 4rem auto;
+    padding: 2rem;
+    background-color: rgba(255,255,255,0.6);
+    border: 1px solid rgba(0,0,0,0.1);
+    box-shadow: 0 0 15px rgba(0,0,0,0.2);
+    position: relative;
+}
+
+section h2 {
+    font-size: 1.8rem;
+    margin-bottom: 0.5em;
+    text-align: center;
+}
+
+hr {
+    border: none;
+    border-top: 1px dashed #8c8c8c;
+    margin: 2rem 0;
+}
+
+.photo {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto 1rem;
+}
+
+.marginalia {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    width: 100px;
+    opacity: 0.5;
+    transform: rotate(-10deg);
+}
+
+@media (max-width: 600px) {
+    header { flex-direction: column; align-items: flex-start; }
+    header nav a { display: block; margin: 0.25rem 0; }
+}
+#about p:first-of-type::first-letter {
+    font-size: 3em;
+    float: left;
+    margin: 0 0.1em 0 0;
+    font-weight: 700;
+}
